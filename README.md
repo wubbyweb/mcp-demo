@@ -9,9 +9,11 @@
 ╚═╝     ╚═╝ ╚═════╝╚═╝         ╚═════╝ ╚══════╝╚═╝     ╚═╝ ╚═════╝ 
                                                                      
 🔄 Word Reversal Server with Server-Sent Events Support 🔄
-```
-
 A comprehensive demonstration of **Model Context Protocol (MCP)** server with **Server-Sent Events (SSE)** support and a **word reversal tool**.
+
+<a href="https://glama.ai/mcp/servers/@wubbyweb/mcp-demo">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@wubbyweb/mcp-demo/badge" alt="Demo Project MCP server" />
+</a>
 
 ## 🎨 Visual Architecture
 
